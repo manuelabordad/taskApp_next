@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy avocado and toasts"
+    },
+    {
+      "id": "3",
+      "text": "study math "
+    },
+    {
+      "id": "4",
+      "text": "make dinner "
+    },
+    {
+      "id": "5",
+      "text": "play with my dogs "
+    }
+  ]
+}
